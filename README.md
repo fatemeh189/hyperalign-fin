@@ -148,16 +148,7 @@ All price data is downloaded on demand from Yahoo Finance via `yfinance` (S&P 50
 
 ## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@article{lakzaie2026hyperalignfin,
-  title   = {HyperAlign-Fin: Near-Orthogonal Multi-View Alignment for Financial Time Series},
-  author  = {Lakzaie, Fatemeh and Bahiraie, Alireza},
-  journal = {Knowledge-Based Systems},
-  year    = {2026}
-}
-```
+Citation information is withheld from this version of the repository to preserve the integrity of the double-blind review process. The full citation (including author names and DOI) will be added upon publication.
 
 ## License
 
