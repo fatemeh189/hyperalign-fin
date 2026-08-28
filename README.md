@@ -154,6 +154,4 @@ Citation information is withheld from this version of the repository to preserve
 
 Add a license (e.g., MIT) before making this repository public, if you intend for others to reuse the code freely.
 
-## Contact
 
-Alireza Bahiraie — alireza.bahiraie@semnan.ac.ir
