@@ -1,6 +1,6 @@
 # HyperAlign-Fin
 
-Code accompanying the manuscript **"HyperAlign-Fin: Near-Orthogonal Multi-View Alignment for Financial Time Series"** (Lakzaie & Bahiraie).
+Code accompanying the manuscript **"HyperAlign-Fin: Near-Orthogonal Multi-View Alignment for Financial Time Series"**.
 
 HyperAlign-Fin pairs a Gramian Angular Field (GAF) encoding of an asset's price window with a hypergraph neural network (HGNN) encoding of its sector and dynamic correlation structure, aligned through a regime-aware contrastive objective. See the manuscript for the theoretical background (Theorems 1–3, Corollaries 1–3) and empirical validation (Section 4).
 
